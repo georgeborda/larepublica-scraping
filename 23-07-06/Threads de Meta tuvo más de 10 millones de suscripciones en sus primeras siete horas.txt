@@ -1,0 +1,44 @@
+Threads de Meta tuvo más de 10 millones de suscripciones en sus primeras siete horas
+
+La aplicación de conversación de texto se lanzó sin anuncios y permite a los usuarios transferir sus listas de seguidores de Instagram y nombres de cuentas
+
+Mark Zuckerberg , CEO y cofundador de Meta, presentó oficialmente este miércoles su plataforma de conversación basada en texto, la cual ya está disponible en más de 100 países para descargar gratuitamente en Apple App Store y en la tienda en línea Google Play, en sus primeras siete horas obtuvo más de 10 millones de suscripciones.
+La nueva plataforma se posiciona como el gran desafío de Twitter tras sus numerosos cambios en la dinámica de la aplicación, 
+como restricciones a las vistas en las publicaciones y suscripciones pagas, lo que llevó a grandes figuras a retirarse
+ de la aplicación. Muchas de esas cuentas influyentes le han pedido a Instagram que haga una aplicación basada en texto, según Connor Hayes, vicepresidente de producto.
+“Los creadores nos decían: 'Queremos una alternativa a lo que existe, y no queremos empezar de nuevo y tener que crear seguidores desde cero'”, dijo Hayes en una entrevista, sin mencionar específicamente a Twitter. 
+Threads también se lanzó sin anuncios; por ahora, el enfoque es lograr que la mayor cantidad de personas se entusiasmen
+ con el producto como sea posible, dijo Hayes.
+En Threads, las personas pueden publicar texto y enlaces y responder o volver a publicar mensajes de otros. La aplicación permitirá a los usuarios 
+transferir sus listas de seguidores y nombres de cuentas existentes
+ de Instagram, 
+la aplicación para compartir fotos y videos de Meta que cuenta con las principales marcas, celebridades y creadores entre sus más de 2.000 millones de usuarios. 
+“Debería haber una aplicación de conversaciones públicas con más de mil millones de personas”, dijo el director ejecutivo de Meta, Mark Zuckerberg, en una publicación en su cuenta de Threads. 
+“Twitter ha tenido la oportunidad de hacer esto, pero no lo ha logrado. Ojalá lo hagamos”.
+La nueva aplicación de Meta obtuvo más de 10 millones de suscripciones en sus primeras horas, dijo Zuckerberg. Sin embargo, eso todavía está muy lejos de los más de 300 millones de Twitter . Las acciones de Meta subieron 1,7% durante las operaciones previas a la comercialización en Nueva York. Rival Snap Inc. bajó menos del 1%.
+A pesar del aumento en las suscripciones, Threads se mantuvo estable, con solo informes esporádicos de fallas temporales. La representante estadounidense Alexandria Ocasio-Cortez, que tiene millones de seguidores en Twitter, publicó el miércoles por la noche:
+ “Creo que mi aplicación está bloqueada. Fue justo cuando presioné enviar en una publicación larga de recomendaciones de comida de Queens”.
+ Otros usuarios hablaron sobre los términos y condiciones de la nueva aplicación, que establecen que una cuenta de Threads solo se puede eliminar por completo si un usuario también borra su cuenta de Instagram.
+Instagram y Facebook, ambos propiedad de Meta, tienen una larga y exitosa historia de copiar productos de nuevos competidores de Internet. 
+La función Reels de la compañía fue una imitación de la aplicación de video viral de TikTok, y sus publicaciones de Historias que desaparecieron siguieron al auge de Snapchat.
+ En el pasado, las aplicaciones de Meta han competido indirectamente por la atención de los usuarios con Twitter al cortejar a los editores de noticias, políticos y otras personas de alto perfil para que favorezcan la publicación en uno frente al otro. La llegada de Threads marca la primera vez que Meta lanza un similar a Twitter.
+El miércoles, Zuckerberg tuiteó por primera vez en 11 años, dando un golpe juguetón a su rival multimillonario, quien a su vez llamó a Instagram falso.
+El momento parece propicio para Meta. Desde que Musk adquirió Twitter por US$44.000 millones en octubre, la empresa ha despedido a miles de empleados, 
+relajado sus políticas de moderación de contenido y puesto a los usuarios y anunciantes a una serie de desafíos técnicos. 
+Twitter también está sufriendo económicamente. Los ingresos por publicidad en la empresa con sede en San Francisco han disminuido en 50%, dijo Musk en marzo, y recientemente contrató a Linda Yaccarino, ejecutiva de NBCUniversal, como directora ejecutiva para tratar de mejorar las relaciones con las marcas.
+A partir del lanzamiento de Threads el miércoles, 
+Twitter todavía limita la cantidad de tweets por día que los usuarios pueden ver, una medida que Musk llamó "temporal"
+ para defenderse de los raspadores de datos y los bots.
+Esas restricciones son solo el último movimiento que lleva a los usuarios de Twitter a buscar alternativas. Pero la mayoría de los rivales directos anteriores de la empresa, como Bluesky y Mastodon, 
+no han construido redes lo suficientemente grandes como para dar a las publicaciones el alcance
+ y el impacto que tienen en Twitter. Muchas redes alternativas nuevas todavía están construyendo sistemas para administrar contenido dañino, inapropiado o violento.
+Threads se embarcará con todos esos sistemas maduros de la empresa en su lugar, gracias a la infraestructura existente de Instagram. 
+La aplicación tendrá las mismas reglas de contenido que Instagram, con los mismos controles para silenciar y bloquear cuentas acosadoras
+. Las figuras públicas que tienen cuentas verificadas en Instagram pueden mantener sus insignias azules en Threads. A principios de este año, Twitter convirtió la verificación en una función solo de pago.
+“La gente busca una experiencia en la que tenga más control y en la que la seguridad esté integrada en el producto desde el principio”, dijo Hayes.
+Otro punto de venta, dijo Hayes, es que
+ Threads
+ se basa en el mismo protocolo de red social ActivityPub que Mastodon y otras aplicaciones de redes sociales descentralizadas
+. Eso significa que las personas que crean seguidores en Threads eventualmente podrán usar la aplicación para interactuar con una comunidad más amplia más allá de Instagram. 
+Es la primera aplicación Meta que será interoperable con productos de la competencia, aunque Hayes no dio un cronograma para esa actualización.
+Threads también se lanzará sin anuncios; por ahora, el enfoque es lograr que la mayor cantidad de personas se entusiasmen con el producto como sea posible, dijo Hayes.
